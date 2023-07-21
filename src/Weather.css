@@ -31,8 +31,6 @@
 }
 
  .Weather canvas {
-    height: 64px;
-    width: 64px;
     margin-right: 10px;
     display: inline-block;
     
@@ -42,10 +40,8 @@
     font-weight: bold;
         color: rgb(33, 33, 33);
         font-size: 64px;
-        line-height: 64px;
-        margin-left: 5px;
-        font-weight: 400;
-        margin-left: 10px;
+      line-height: 64px;
+      font-weight: 400;
     
 }
 
